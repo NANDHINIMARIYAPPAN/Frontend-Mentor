@@ -20,7 +20,7 @@ body {
     gap: 2em;
     max-width: 1440px;
     margin: auto;
-    /* height: 100vh; */
+     height: 100vh; 
 }
 
 .card {
